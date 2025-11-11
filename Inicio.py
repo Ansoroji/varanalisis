@@ -26,8 +26,10 @@ st.markdown("""
 # Title and description
 st.title('📊 Análisis de datos de Sensores en Mi Ciudad')
 st.markdown("""
-    Esta aplicación permite analizar datos de calidad del aire
-    de diferentes sectores de medellín
+    Esta aplicación permite analizar datos de calidad de diferentes ámbitos y 
+    estádisticas del ambiente de medellín.
+
+    Por favor cargue sus archivos para ver los datos.
 """)
 
 # Create map data for EAFIT
